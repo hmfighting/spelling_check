@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c015822-48fd-420a-b441-dc56eb5af8c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Text_error_detection$.coverage" NAME="简繁体转化 Coverage Results" MODIFIED="1574993365480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuction_test" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$errorCheck.coverage" NAME="errorCheck Coverage Results" MODIFIED="1576544117514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/N元错误检错" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$tongyin_word_deal.coverage" NAME="tongyin_word_deal Coverage Results" MODIFIED="1576543701246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/N元错误检错" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$__1_.coverage" NAME="简繁体转化 (1) Coverage Results" MODIFIED="1575006257771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuction_test" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$Data_message.coverage" NAME="Data_message Coverage Results" MODIFIED="1575968538099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/public_simple_data" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$process_word2vecPublic.coverage" NAME="process_word2vecPublic Coverage Results" MODIFIED="1575509980303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$main_word2vecPublic_yt.coverage" NAME="main_word2vecPublic_yt Coverage Results" MODIFIED="1576548553148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$main_word2vecPublic.coverage" NAME="main_word2vecPublic Coverage Results" MODIFIED="1578190456884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$weight_character.coverage" NAME="weight_character Coverage Results" MODIFIED="1575514957867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$wordsTrain_vec.coverage" NAME="wordsTrain_vec Coverage Results" MODIFIED="1575468886679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word_vector" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$Bi_LSTM_Test.coverage" NAME="Bi-LSTM_Test Coverage Results" MODIFIED="1575536409089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$process_yt.coverage" NAME="process_yt Coverage Results" MODIFIED="1576548103928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$Bi_LSTM_yt.coverage" NAME="Bi-LSTM_yt Coverage Results" MODIFIED="1576552072551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$wordsTran_yt.coverage" NAME="wordsTran_yt Coverage Results" MODIFIED="1575553139542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word_vector" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$similar_word_deal.coverage" NAME="similar_word_deal Coverage Results" MODIFIED="1575809534795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/N元错误检错" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$test.coverage" NAME="test Coverage Results" MODIFIED="1575996674586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$words_table.coverage" NAME="words_table Coverage Results" MODIFIED="1575472647130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuction_test" />
+    <SUITE FILE_PATH="coverage/Text_error_detection$ndataDeal.coverage" NAME="ndataDeal Coverage Results" MODIFIED="1576543935657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/N元错误检错" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpLs8hbnb9CBMphBgLBt1Za3gX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/public_simple_data" />
+      <recent name="$PROJECT_DIR$/data/public_simple_data/训练预料" />
+      <recent name="$PROJECT_DIR$/correctionData" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/public_data/sighan2014" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/public_data/sighan2014" />
+      <recent name="$PROJECT_DIR$/data/confusionSet" />
+      <recent name="$PROJECT_DIR$/data/yt_data" />
+      <recent name="$PROJECT_DIR$/data/public_simple_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.process_word2vecPublic">
+    <configuration name="简繁体转化" type="PythonConfigurationType" factoryName="Python">
+      <module name="Text_error_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/shuxueJianmo/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_word2vecPublic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text_error_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_word2vecPublic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_word2vecPublic_yt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text_error_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_word2vecPublic_yt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_word2vecPublic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text_error_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process_word2vecPublic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_yt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text_error_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process_yt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordsTrain_vec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text_error_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/word_vector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_vector/wordsTrain_vec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.简繁体转化" />
+      <item itemvalue="Python.main_word2vecPublic" />
+      <item itemvalue="Python.main_word2vecPublic_yt" />
+      <item itemvalue="Python.process_yt" />
+      <item itemvalue="Python.wordsTrain_vec" />
+      <item itemvalue="Python.process_word2vecPublic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.process_word2vecPublic" />
+        <item itemvalue="Python.wordsTrain_vec" />
+        <item itemvalue="Python.main_word2vecPublic_yt" />
+        <item itemvalue="Python.process_yt" />
+        <item itemvalue="Python.main_word2vecPublic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c015822-48fd-420a-b441-dc56eb5af8c8" name="Default Changelist" comment="" />
+      <created>1574665485462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574665485462</updated>
+      <workItem from="1574665491700" duration="8369000" />
+      <workItem from="1574989347798" duration="204199000" />
+      <workItem from="1576459369014" duration="24300000" />
+      <workItem from="1576561171004" duration="341000" />
+      <workItem from="1577031871036" duration="226000" />
+      <workItem from="1577348427204" duration="3096000" />
+      <workItem from="1577454714717" duration="472000" />
+      <workItem from="1577455679525" duration="11964000" />
+      <workItem from="1578110952441" duration="701000" />
+      <workItem from="1578121436017" duration="736000" />
+      <workItem from="1581255415956" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="254565000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="15" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588262519144">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="15" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1588262519144" />
+    <state x="415" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589335289968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1589335289968" />
+    <state x="458" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591259294048">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1589215559665" />
+    <state x="458" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1591259294048" />
+    <state x="429" y="71" key="#main_word2vecPublic_yt" timestamp="1588173143583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="71" key="#main_word2vecPublic_yt/0.0.1440.900@0.0.1440.900" timestamp="1588173143583" />
+    <state x="429" y="71" key="#process_yt" timestamp="1588172239048">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="71" key="#process_yt/0.0.1440.900@0.0.1440.900" timestamp="1588172239048" />
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom" timestamp="1591260769846">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589361273828" />
+    <state width="1126" height="189" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1588380527484" />
+    <state width="1419" height="303" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1588693993483" />
+    <state width="1126" height="223" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1588666770717" />
+    <state width="1470" height="321" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1589269820666" />
+    <state width="1470" height="302" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1589372710554" />
+    <state width="1470" height="134" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1589098741817" />
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1591260769846" />
+    <state width="1419" height="292" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1591259554824" />
+    <state width="1419" height="204" key="GridCell.Tab.0.center" timestamp="1591260769845">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589361273826" />
+    <state width="1126" height="189" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1588380527483" />
+    <state width="1419" height="303" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1588693993482" />
+    <state width="1126" height="223" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1588666770716" />
+    <state width="1470" height="321" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1589269820665" />
+    <state width="1470" height="302" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1589372710553" />
+    <state width="1470" height="134" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1589098741816" />
+    <state width="1419" height="204" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1591260769845" />
+    <state width="1419" height="292" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1591259554823" />
+    <state width="1419" height="204" key="GridCell.Tab.0.left" timestamp="1591260769844">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589361273825" />
+    <state width="1126" height="189" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1588380527483" />
+    <state width="1419" height="303" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1588693993482" />
+    <state width="1126" height="223" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1588666770715" />
+    <state width="1470" height="321" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1589269820664" />
+    <state width="1470" height="302" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1589372710553" />
+    <state width="1470" height="134" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1589098741816" />
+    <state width="1419" height="204" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1591260769844" />
+    <state width="1419" height="292" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1591259554823" />
+    <state width="1419" height="204" key="GridCell.Tab.0.right" timestamp="1591260769846">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589361273827" />
+    <state width="1126" height="189" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1588380527484" />
+    <state width="1419" height="303" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1588693993483" />
+    <state width="1126" height="223" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1588666770716" />
+    <state width="1470" height="321" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1589269820666" />
+    <state width="1470" height="302" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1589372710554" />
+    <state width="1470" height="134" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1589098741817" />
+    <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1591260769846" />
+    <state width="1419" height="292" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1591259554824" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1588693993485">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588693846092" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1588693993485" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1588693993484">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588693846091" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1588693993484" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1588693993484">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588693846090" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1588693993484" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1588693993484">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588693846091" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1588693993484" />
+    <state x="89" y="82" key="SettingsEditor" timestamp="1589085650962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="89" y="82" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589085650962" />
+    <state x="399" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1591258119108">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1590387716229" />
+    <state x="399" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1591258119108" />
+    <state x="285" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588693840116">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="285" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1588693840116" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
